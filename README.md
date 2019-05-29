@@ -26,6 +26,10 @@ TestRail domain.  Do not include protocol.
 TestRail username / email.
 * TESTRAIL_APIKEY
 TestRail [API key](http://docs.gurock.com/testrail-api2/accessing#username_and_api_key).
+**To use an existing run**
+* TESTRAIL_RUNID
+Testrail run id
+**OR Create a new run**
 * TESTRAIL_PROJECTID
 TestRail project id.
 * TESTRAIL_SUITEID (optional)
